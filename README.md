@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-# SoftUni
-=======
-# SoftUni
->>>>>>> 7a8b6cf0a3f33a6912775c8a2658fb0f5c35897a
+This is my Python Fundamentals Course at SoftUni.
+Here are uploaded the tasks to which we as students have to find answers.
+If they are of any help to ypu feel free to use them.
