@@ -1,0 +1,1 @@
+{"first_name": "dido", "last_name": "dido", "username": "dido", "password": "dido"}  # double_quotes are necessary because its .json file

@@ -1,0 +1,4 @@
+"""
+saves nested objects; image should be in same directory
+"""
+{"puma blue T-Shirt": {"quantity": 12, "image": "path to .png"}, "nike blue T-shirt": {"quantity": 15, "image": "path to .png"}}
