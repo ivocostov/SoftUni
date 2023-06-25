@@ -1,0 +1,25 @@
+body {
+    display: flex;
+    background-color: rgb(238, 238, 238);
+    align-items: center;
+    
+}
+.comtainer {
+    display: flex;
+    
+}
+
+.card1, .card2, .card3, .card4 {
+    border-radius: 20px;
+    
+}
+
+.card1,
+.card3,
+.card4 {
+    width: 180px;
+    margin: 0 auto;
+    overflow: hidden;
+    position: relative;
+    height: 400px;
+}

@@ -1,0 +1,38 @@
+body {
+    background-color: bisque;
+    border: 2px solid black;
+    display: flex;
+    padding: 2rem;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    flex-direction: column;
+}
+
+p {
+    background-color: aqua;
+    border: 2px solid orange;
+    padding: 1rem;
+    margin: 1rem;
+}
+
+/*  ------    Children Properties    ------  */
+
+.first_p,
+.fourth_p {
+    width: ;
+}
+
+.second_p,
+.third_p {
+    display: flex;
+    justify-content: space-between;
+}
+
+.second_p {
+    width: 700px;
+}
+
+.third_p {
+    width: auto;
+
+}

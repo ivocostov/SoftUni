@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="46aeff7f-1aff-4b08-bb52-d1efc2f5e363" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2PW0RczmvsSUnfBxhcyGQSrnOor" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/JS Front End/JS Front-End/JS Front End Tasks&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\JS Front End\HTML and CSS\HTML&amp;CSS - Tasks\04. HTML Structure" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\JS Front End\HTML and CSS\HTML&amp;CSS - Tasks\14. Exam Preparatrion\3. Fitness-Site\03.Fitness-Site-Resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Node.js.02. Vacation.js">
+    <configuration name="01. Ages.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/../../JS Front-End/JS Front End Tasks/04. Exercise - JS Syntax Fundamentals/01. Ages.js" working-dir="$PROJECT_DIR$/../../JS Front-End/JS Front End Tasks/04. Exercise - JS Syntax Fundamentals">
+      <method v="2" />
+    </configuration>
+    <configuration name="02. Vacation.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/../../JS Front-End/JS Front End Tasks/04. Exercise - JS Syntax Fundamentals/02. Vacation.js" working-dir="$PROJECT_DIR$/../../JS Front-End/JS Front End Tasks/04. Exercise - JS Syntax Fundamentals">
+      <method v="2" />
+    </configuration>
+    <configuration name="14. Substring.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/../../JS Front-End/JS Front End Tasks/03. JS Syntax Fundamentals/14. Substring.js" working-dir="$PROJECT_DIR$/../../JS Front-End/JS Front End Tasks/03. JS Syntax Fundamentals">
+      <method v="2" />
+    </configuration>
+    <configuration name="15. Censored Words.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/../../JS Front-End/JS Front End Tasks/03. JS Syntax Fundamentals/15. Censored Words.js" working-dir="$PROJECT_DIR$/../../JS Front-End/JS Front End Tasks/03. JS Syntax Fundamentals">
+      <method v="2" />
+    </configuration>
+    <configuration name="16. Count String Occurrences.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/../../JS Front-End/JS Front End Tasks/03. JS Syntax Fundamentals/16. Count String Occurrences.js" working-dir="$PROJECT_DIR$/../../JS Front-End/JS Front End Tasks/03. JS Syntax Fundamentals">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.02. Vacation.js" />
+        <item itemvalue="Node.js.01. Ages.js" />
+        <item itemvalue="Node.js.16. Count String Occurrences.js" />
+        <item itemvalue="Node.js.15. Censored Words.js" />
+        <item itemvalue="Node.js.14. Substring.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="46aeff7f-1aff-4b08-bb52-d1efc2f5e363" name="Changes" comment="" />
+      <created>1683557526492</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683557526492</updated>
+      <workItem from="1683557529250" duration="302000" />
+      <workItem from="1683819917857" duration="4039000" />
+      <workItem from="1684062467175" duration="3827000" />
+      <workItem from="1684431873827" duration="2110000" />
+      <workItem from="1684434224728" duration="4271000" />
+      <workItem from="1684573449907" duration="8326000" />
+      <workItem from="1684585024480" duration="5227000" />
+      <workItem from="1684590353415" duration="654000" />
+      <workItem from="1684591967328" duration="10006000" />
+      <workItem from="1684676953124" duration="2313000" />
+      <workItem from="1685025253661" duration="12729000" />
+      <workItem from="1685039870716" duration="103000" />
+      <workItem from="1685176670993" duration="17533000" />
+      <workItem from="1685264117869" duration="7608000" />
+      <workItem from="1685279674334" duration="1810000" />
+      <workItem from="1686674306811" duration="325000" />
+      <workItem from="1686760596354" duration="6404000" />
+      <workItem from="1686852034939" duration="1448000" />
+      <workItem from="1687599993718" duration="8418000" />
+      <workItem from="1687612437272" duration="5202000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/../../JS Front-End/JS Front End Tasks/03. JS Syntax Fundamentals/07. Theatre Promotions.js</url>
+          <line>1</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/../../JS Front-End/JS Front End Tasks/03. JS Syntax Fundamentals/13. Even and Odd Subtraction.js</url>
+          <line>4</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/../../JS Front-End/JS Front End Tasks/03. JS Syntax Fundamentals/13. Even and Odd Subtraction.js</url>
+          <line>15</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/../../JS Front-End/JS Front End Tasks/03. JS Syntax Fundamentals/13. Even and Odd Subtraction.js</url>
+          <line>16</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/../../JS Front-End/JS Front End Tasks/03. JS Syntax Fundamentals/13. Even and Odd Subtraction.js</url>
+          <line>17</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/../../JS Front-End/JS Front End Tasks/03. JS Syntax Fundamentals/14. Substring.js</url>
+          <line>1</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/../../JS Front-End/JS Front End Tasks/03. JS Syntax Fundamentals/14. Substring.js</url>
+          <line>2</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/../../JS Front-End/JS Front End Tasks/03. JS Syntax Fundamentals/15. Censored Words.js</url>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/../../JS Front-End/JS Front End Tasks/03. JS Syntax Fundamentals/15. Censored Words.js</url>
+          <line>7</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/../../JS Front-End/JS Front End Tasks/04. Exercise - JS Syntax Fundamentals/02. Vacation.js</url>
+          <line>73</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

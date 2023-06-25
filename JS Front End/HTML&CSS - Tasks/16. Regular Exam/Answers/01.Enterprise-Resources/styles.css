@@ -1,0 +1,72 @@
+@import url(https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&amp;display=swap);
+
+body {
+    font-family: Inter;
+    background-color: #D9D9D9;
+}
+
+.container {
+    display: flex;
+    gap: 40px;
+    justify-content: center;
+    margin-top: 200px;
+}
+
+.container .sub-container-1,
+.container .sub-container-2,
+.container .sub-container-3 {
+    background-color: #D9D9D9;
+    width: 500px;
+    box-shadow: 3px 10px 10px 3px rgba(0, 0, 0, 0.2);
+    padding: 20px;
+    
+}
+
+.container .sub-container-1 .image-1 img,
+.container .sub-container-2 .image-2 img,
+.container .sub-container-3 .image-3 img {
+    height: 300px;
+    width: 540px;
+    margin-left: -20px;
+    
+}
+
+p.sub-title {
+    font-size: 32px;
+    font-weight: none;
+    margin-top: -7px;
+    margin-bottom: 30px;
+}
+
+.author img {
+    width: 50px;
+    height: 50px;
+}
+
+.sub-container-1 {
+    display: flex;
+    flex-direction: column;
+}
+
+.divider {
+    background-color: black;
+    height: 1px;
+    margin: 30px;
+}
+
+footer {
+    display: flex;
+    justify-content: space-between;
+}
+
+footer .author {
+    display: flex;
+    gap: 5px;
+}
+
+footer .author img {
+    border-radius: 50%;
+}
+
+
+

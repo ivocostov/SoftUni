@@ -1,0 +1,86 @@
+@import url( https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&amp;display=swap.);
+@import url( https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css);
+
+
+*,
+*::before,
+*::after {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url(image/background.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center -50em;
+}
+
+.subscription-plans {
+    display: flex;
+    font-family: Inter, sans-serif;
+    justify-content: center;
+    align-items: center;
+    gap: 25px;
+    margin-top: 50px;
+}
+
+
+.subscription-plans .title {
+    text-transform: uppercase;
+    margin-bottom: 20px;
+}
+
+.subscription-plans p {
+    line-height: 1.5;
+
+}
+
+.price {
+    font-size: 50px;
+    font-weight: 700;
+                       }
+
+.basic,
+.standard,
+.premium {
+    background-color: #CCCCCC;
+    padding: 20px;
+    width: 350px;
+    
+}
+
+.standard {
+    height: 520px;
+}
+
+.basic,
+.premium {
+    height: 500px;
+}
+
+.sub {
+    font-size: 12px;
+    margin: 20px;
+    
+}
+
+.btn {
+    color: white;
+    background-color: black;
+    border: none; 
+    padding: 15px 35px;
+    border-radius: 5px;
+    margin-top: 50px;
+    
+}
+
+.basic .btn {
+margin-top: 80px;
+}
+
+.premium .btn {
+    margin-top: 30px;
+}

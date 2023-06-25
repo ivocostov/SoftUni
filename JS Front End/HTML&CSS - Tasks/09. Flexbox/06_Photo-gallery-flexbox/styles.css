@@ -1,0 +1,18 @@
+* {
+    box-sizing: border-box;
+}
+
+.gallery ul {
+    list-style-type: none;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 3em;
+    justify-content: space-between;
+}
+
+.gallery li {
+    display: flex;
+    border: 10px solid black;
+    padding: 20px;
+    align-items: center;
+}

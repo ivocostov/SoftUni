@@ -1,0 +1,194 @@
+@import url(https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css);
+
+*,
+*::before,
+*::after {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+html {
+    
+    /* max-width: 1920px; */
+    font-family: Arial, sans-serif;
+    --bg-color-blue: #85DCFF;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100px;
+
+}
+
+.header h1 {
+    margin-left: 100px;
+}
+
+.header ul {
+    display: flex;
+    gap: 90px;
+    list-style: none;
+    font-size: 30px;
+    font-weight: 700;
+    margin-right: 50px;
+
+}
+
+.propaganda {
+    display: flex;
+    justify-content: space-between;
+    height: 500px;
+    background-color: var(--bg-color-blue)
+}
+
+.propaganda .description {
+    width: 45%;
+    display: flex;
+    flex-direction: column;
+    margin-left: 170px;
+    margin-top: 150px;
+}
+
+
+.propaganda .description .desc-p {
+    font-size: 18px;
+    margin: 30px 0;
+}
+
+.propaganda .description .btn .donation {
+    font-size: 20px;
+    font-weight: bold;
+    margin-right: 30px;
+    width: 270px;
+    height: 50px;
+    border: none;
+}
+
+.propaganda .description .btn .join {
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    height: 50px;
+    width: 320px;
+    border: none;
+}
+
+.propaganda .img-container img{
+    height: 500px;
+    margin-right: 100px;
+}
+
+.enlist {
+    border: none;
+    height: 500px;
+    margin-bottom: 50px;
+}
+
+.enlist header {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    gap:  30px;
+}
+
+.enlist header span {
+    display: inline-block;
+    text-align: center;
+    max-width: 500px;
+    text-overflow: ellipsis;
+
+}
+
+.enlist .info {
+    display: flex;
+    gap: 50px;
+    margin: 0 100px 0 100px;
+    
+}
+
+.enlist .info i {
+    display: flex;
+    justify-content: center;
+    font-size: 120px;
+    margin-bottom: 50px;
+}
+
+.enlist .info h2 {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 50px;
+}
+
+.enlist .info p {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+.work {
+    height: 500px;
+    background-color: var(--bg-color-blue);
+}
+
+.work header h2 {
+    text-align: center;
+    font-size: 2em;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.work .sub-work ul{
+    display: grid;
+    grid-template-columns: repeat(2, 400px);
+    grid-template-rows: auto;
+    column-gap: 50px;
+    row-gap: 10px;
+    justify-content: center;
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 60px;
+}
+
+.work .sub-work li::marker {
+    font-size: 3em;
+}
+
+.work .sub-work li span {
+    position: relative;
+    right: 18px;
+}
+
+.work .btn {
+    display: flex;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+}
+
+.work .btn button {
+    height: 40px;
+    width: 200px;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    border: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+

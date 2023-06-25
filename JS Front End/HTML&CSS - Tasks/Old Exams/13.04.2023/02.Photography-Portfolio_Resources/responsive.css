@@ -1,0 +1,38 @@
+@media screen and (max-width: 600px) { 
+    .navigation-nav {
+        display: none;
+    }
+
+    .home-text {
+        display: none;
+    }
+
+
+    .home-tab-selector-cards-container {
+        grid-template-columns: auto;
+    }
+
+    .home-max-width1 {
+        flex-direction: column;
+        background-color: #F9F4F0;
+    }
+
+    .home-image-container {
+        display: none;
+        
+    }
+
+    .section-container .home-top-part {
+        flex-direction: column;
+    }
+
+    .home-top-part .home-links-container {
+        flex-direction: column;
+    }
+
+    .home-product-container span:last-child,
+    .home-navigate-container span:last-child {
+        margin-bottom: 20px;
+    }
+
+}

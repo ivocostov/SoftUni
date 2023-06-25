@@ -1,0 +1,31 @@
+.main-nav {
+
+}
+
+.main-nav ul {
+  display: inline-block;
+}
+
+.main-nav a {
+  display: block;
+  padding: 0.5em 0.7em;
+  text-decoration: none;
+  color: purple;
+  background-color: rgba(0, 0, 0, 0.05);
+}
+
+.main-nav a:hover {
+  background-color: rgba(0, 0, 0, 0.05);
+  color: #fff;
+}
+
+.main-nav > ul ul {
+  display: none;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.main-nav li:hover {
+
+}

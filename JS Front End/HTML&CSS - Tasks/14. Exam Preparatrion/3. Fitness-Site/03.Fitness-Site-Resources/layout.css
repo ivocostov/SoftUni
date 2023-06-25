@@ -1,0 +1,17 @@
+
+body {
+    background-size: 120% auto;
+    background: url("14. Exam Preparatrion/3. Fitness-Site/03.Fitness-Site-Resources/image/fitness-main.jpg") no-repeat;
+    background-position: center -10em;
+    background-repeat: no-repeat;
+}
+
+.site {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.site-footer {
+
+}

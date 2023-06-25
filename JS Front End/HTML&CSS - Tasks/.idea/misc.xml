@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectResources">
+    <resource url="https://use.fontawesome.com/releases/v5.6.3/css/all.css" location="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.10 (JS Fundamentals)" project-jdk-type="Python SDK" />
+</project>

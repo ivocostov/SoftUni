@@ -1,0 +1,28 @@
+/* html {
+    background-color: #eeeeee;
+} */
+
+body {
+    display: flex;
+    background-color: rgb(238, 238, 238);
+    height: 100vh;
+    font-family: Helvetica, sans-serif;
+}
+
+header, body {
+    flex-direction: column;
+}
+
+header {
+    text-transform: uppercase;
+}
+
+.divider {
+    background-color: black;
+    height: 4px;
+}
+
+footer {
+    background-color: rgb(102, 102, 102);
+    color: rgb(255, 255, 255);
+}

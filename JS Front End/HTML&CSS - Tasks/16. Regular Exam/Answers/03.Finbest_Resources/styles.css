@@ -1,0 +1,295 @@
+@import url((https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&amp;display=swap));
+@import url(https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css);
+
+
+*,
+*::before,
+*::after {
+    padding: 0;
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+html {
+    box-sizing: inherit;
+}
+
+body {
+    font-family: Inter, sans-serif;
+}
+
+.header {
+    
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 24px;
+}
+
+.header .nav-bar,
+.header .login {
+    display: flex;
+    gap: 50px;
+    list-style: none;
+    padding: 0 200px;
+    align-items: center;
+    font-size: 24px;
+}
+
+.header .login .sign_up button {
+    background-color: #ADE2DF;
+    height: 50px;
+    width: 100px;
+    border-radius: 10px;
+}
+
+.advertising {
+    background-color: #ADE2DF;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 70px;
+}
+
+.advertising header h1 {
+    font-size: 85px;
+}
+
+.advertising header h4 {
+    text-align: center;
+    font-size: 24px;
+    margin-top: 70px;
+}
+
+.advertising .downloads {
+    display: flex;
+    gap: 20px;
+}
+
+.advertising .downloads .iOS {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    border-radius: 10px;
+    font-size: 24px;
+    color: white;
+    height: 100px;
+    width: 300px;
+}
+
+.advertising .downloads .android {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    border-radius: 10px;
+    font-size: 24px;
+    color: white;
+    height: 100px;
+    width: 400px;
+}
+
+.advertising .downloads i {
+    font-size: 24px;
+}
+
+.stats {
+    
+    display: flex;
+    justify-content: space-between;
+    padding: 100px 150px;
+    height: 400px;
+}
+
+.stats .stat_1,
+.stats .stat_2,
+.stats .stat_3 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+}
+
+.stats .stat_1 h1,
+.stats .stat_2 h1,
+.stats .stat_3 h1 {
+    font-size: 50px;
+}
+
+.stats .stat_1 p,
+.stats .stat_2 p,
+.stats .stat_3 p {
+    font-size: 24px;
+    width: 500px;
+    text-align: center;
+}
+
+.stats .stat_2 {
+    border-left: 2px solid #DBDBDB;
+    border-right: 2px solid #DBDBDB;
+}
+
+.stats .stat_1 {
+    border-left: 2px solid #DBDBDB;;
+}
+
+.stats .stat_3 {
+    border-right: 2px solid #DBDBDB;
+}
+
+.bonus {
+    background-color: #ADE2DF;
+    height: 700px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 300px;
+}
+
+.bonus .bonus_image {
+    border: 1px dashed black;
+    padding: 0 50px;
+    margin-right: 100px;
+}
+
+.bonus .bonus_info {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+
+.bonus .bonus_info h1 {
+    font-size: 60px;
+}
+
+.bonus .bonus_info p.sub_title {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.bonus ul {
+    list-style: none;
+    margin: 30px 0;
+}
+
+.bonus ul li a {
+    color: black;
+}
+
+.fees {
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+}
+
+.fees .btn {
+    background-color: #ADE2DF;
+    height: 32px;
+    width: 120px;
+    border-radius: 8px;
+}
+
+.fees p {
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.payment_plans {
+    display: flex;
+    justify-content: space-between;
+    height: 00px;
+    padding: 50px;
+    height: 700px;
+    font-size: 20px;
+}
+
+.payment_plans .expand {
+    background-color: #ADE2DF;
+}
+
+.footer {
+    background-color: #ADE2DF;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 70px;
+}
+
+.footer header h1 {
+    font-size: 85px;
+    width: 800px;
+    text-align: center;
+    margin-left: 100px;
+}
+
+.footer header h4 {
+    text-align: center;
+    width: 600px;
+    margin-top: 10px;
+    margin-left: 200px;
+    text-align: center;
+}
+
+.footer .downloads {
+    display: flex;
+    gap: 20px;
+}
+
+.footer .downloads .iOS {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    border-radius: 10px;
+    font-size: 24px;
+    color: white;
+    height: 100px;
+    width: 300px;
+}
+
+.footer .downloads .android {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    border-radius: 10px;
+    font-size: 24px;
+    color: white;
+    height: 100px;
+    width: 400px;
+}
+
+.advertising .downloads i {
+    font-size: 24px;
+}
+
+.stats {
+    
+    display: flex;
+    justify-content: space-between;
+    padding: 100px 150px;
+    height: 400px;
+}
+
+.stats .stat_1,
+.stats .stat_2,
+.stats .stat_3 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+}

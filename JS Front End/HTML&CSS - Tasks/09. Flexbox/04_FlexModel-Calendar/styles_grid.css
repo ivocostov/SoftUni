@@ -1,0 +1,70 @@
+.container-grid {
+    width: 65vw;
+}
+
+.container span {
+    border: 1px solid black;
+    padding: 0.5rem;
+
+}
+
+
+/* CSS GRID EXAMPLE */
+
+.container-grid {
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+    grid-template-rows: repeat(4, 36px);
+    grid-template-areas: 
+    "workweek workweek workweek workweek workweek workweek workweek workweek workweek workweek reminders remainders"
+    "monday monday tuesday tuesday wednesday wednesday thursday thursday friday friday reminders reminders"
+    "weekend weekend weekend weekend weekend weekend weekend weekend weekend weekend dates dates"
+    "saturday saturday saturday saturday saturday sunday sunday sunday sunday sunday dates dates"
+    ;
+}
+
+.container-grid .workweek {
+    grid-area: workweek;
+}
+
+.container-grid .monday {
+    grid-area: monday;
+}
+
+.container-grid .tuesday {
+    grid-area: tuesday;
+}
+
+.container-grid .wednesday {
+    grid-area: wednesday;
+}
+
+.container-grid .thursday {
+    grid-area: thursday;
+}
+
+.container-grid .friday {
+    grid-area: friday;
+}
+
+.container-grid .weekend {
+    grid-area: weekend;
+}
+
+.container-grid .saturday {
+    grid-area: saturday;
+}
+
+.container-grid .sunday {
+    grid-area: sunday;
+}
+
+.container-grid .reminders {
+    grid-area: notes_reminders;
+}
+
+.container-grid .dates {
+    grid-area: notes_dates;
+}
+
+
